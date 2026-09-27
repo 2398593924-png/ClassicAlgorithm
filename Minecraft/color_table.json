@@ -1,0 +1,242 @@
+{
+  "black_concrete": [
+    15,
+    10,
+    8
+  ],
+  "black_concrete_powder": [
+    31,
+    26,
+    25
+  ],
+  "black_wool": [
+    25,
+    21,
+    20
+  ],
+  "blue_concrete": [
+    143,
+    46,
+    44
+  ],
+  "blue_concrete_powder": [
+    166,
+    73,
+    70
+  ],
+  "blue_wool": [
+    157,
+    57,
+    53
+  ],
+  "brown_concrete": [
+    31,
+    59,
+    96
+  ],
+  "brown_concrete_powder": [
+    53,
+    84,
+    125
+  ],
+  "brown_wool": [
+    40,
+    71,
+    114
+  ],
+  "cyan_concrete": [
+    136,
+    119,
+    21
+  ],
+  "cyan_concrete_powder": [
+    157,
+    147,
+    36
+  ],
+  "cyan_wool": [
+    145,
+    137,
+    21
+  ],
+  "gray_concrete": [
+    61,
+    57,
+    54
+  ],
+  "gray_concrete_powder": [
+    84,
+    81,
+    76
+  ],
+  "gray_wool": [
+    71,
+    68,
+    62
+  ],
+  "green_concrete": [
+    36,
+    91,
+    73
+  ],
+  "green_concrete_powder": [
+    44,
+    119,
+    97
+  ],
+  "green_wool": [
+    27,
+    109,
+    84
+  ],
+  "light_blue_concrete": [
+    198,
+    137,
+    35
+  ],
+  "light_blue_concrete_powder": [
+    213,
+    180,
+    74
+  ],
+  "light_blue_wool": [
+    217,
+    175,
+    58
+  ],
+  "light_gray_concrete": [
+    115,
+    125,
+    125
+  ],
+  "light_gray_concrete_powder": [
+    148,
+    154,
+    154
+  ],
+  "light_gray_wool": [
+    134,
+    142,
+    142
+  ],
+  "lime_concrete": [
+    24,
+    168,
+    94
+  ],
+  "lime_concrete_powder": [
+    41,
+    189,
+    125
+  ],
+  "lime_wool": [
+    25,
+    185,
+    112
+  ],
+  "magenta_concrete": [
+    159,
+    48,
+    169
+  ],
+  "magenta_concrete_powder": [
+    184,
+    83,
+    192
+  ],
+  "magenta_wool": [
+    179,
+    68,
+    189
+  ],
+  "orange_concrete": [
+    0,
+    97,
+    224
+  ],
+  "orange_concrete_powder": [
+    31,
+    131,
+    227
+  ],
+  "orange_wool": [
+    19,
+    118,
+    240
+  ],
+  "pink_concrete": [
+    142,
+    101,
+    213
+  ],
+  "pink_concrete_powder": [
+    181,
+    153,
+    228
+  ],
+  "pink_wool": [
+    172,
+    141,
+    237
+  ],
+  "purple_concrete": [
+    156,
+    31,
+    100
+  ],
+  "purple_concrete_powder": [
+    177,
+    55,
+    131
+  ],
+  "purple_wool": [
+    172,
+    42,
+    121
+  ],
+  "red_concrete": [
+    32,
+    32,
+    142
+  ],
+  "red_concrete_powder": [
+    50,
+    54,
+    168
+  ],
+  "red_wool": [
+    34,
+    39,
+    160
+  ],
+  "white_concrete": [
+    214,
+    213,
+    207
+  ],
+  "white_concrete_powder": [
+    227,
+    227,
+    225
+  ],
+  "white_wool": [
+    236,
+    236,
+    233
+  ],
+  "yellow_concrete": [
+    21,
+    175,
+    240
+  ],
+  "yellow_concrete_powder": [
+    54,
+    199,
+    232
+  ],
+  "yellow_wool": [
+    39,
+    197,
+    248
+  ]
+}
